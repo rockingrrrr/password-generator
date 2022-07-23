@@ -1,0 +1,82 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #121616;
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    padding: 0 auto;
+}
+
+
+.container{
+    width: 90%;
+    max-width: 300px;
+    margin: 6rem auto;
+    text-align: center;
+}
+
+
+h1{
+
+    font-style: normal;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 48px;
+    letter-spacing: 0.1em;
+    line-height: 56px;
+    line-height: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+.h1-small{
+    font-family: 'Roboto';
+    color:#4F4F4F;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 1.135em;
+    text-transform: uppercase;
+}
+
+button{
+    border:0;
+    background: white;
+    border-radius: 0.5rem;
+    color: #040403;
+    padding: 0.5rem 1rem;
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 4rem;
+}
+
+
+#container-all-password{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container-password{
+    background: #040403;
+    color: #B4D8E8;
+    padding:1rem 1rem;
+    margin-bottom: 0.625rem;
+    border-radius: 8px;
+    letter-spacing: 0.215em;
+}
+
+
+.symbol{
+    color: #FF00C7;
+}
+
+.uppercase{
+    color: #00FFD1;
+}
+
+.number{
+    color:#B181FF;
+}
